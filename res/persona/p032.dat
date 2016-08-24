@@ -1,0 +1,15 @@
+name = Thor
+arcana = 7
+max_speed = 1
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.00
+bufu = 0.30
+garu = 0.00
+zio = 0.44
+hama = 0.00
+mudo = 0.00
+phys = 0.26
+spec = 2,4,7

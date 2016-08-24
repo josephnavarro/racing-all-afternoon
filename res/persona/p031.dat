@@ -1,0 +1,15 @@
+name = Ares
+arcana = 7
+max_speed = 1
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.12
+bufu = 0.12
+garu = 0.00
+zio = 0.16
+hama = 0.00
+mudo = 0.00
+phys = 0.60
+spec = 1,2,4,7

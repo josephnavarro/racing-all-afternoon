@@ -1,0 +1,15 @@
+name = Rakshasa
+arcana = 11
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.10
+bufu = 0.10
+garu = 0.15
+zio = 0.10
+hama = 0.00
+mudo = 0.20
+phys = 0.35
+spec = 1,2,3,4,6,7

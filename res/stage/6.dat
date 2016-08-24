@@ -1,0 +1,18 @@
+fog = 11,5,31
+light_road = 135,120,143 
+dark_road = 111,96,119
+light_offroad = 135,120,143
+dark_offroad = 111,96,119
+light_wall = 102,48,123
+dark_wall = 93,35,111
+light_rumble = 84,82,95
+dark_rumble = 37,35,48
+ceiling = 70,26,88
+geometry
+0
+1
+0
+2
+0
+1
+0

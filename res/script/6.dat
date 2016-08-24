@@ -1,0 +1,331 @@
+SCENE: LEFT = 2, BGM = 5, SCENE = 8
+Yosuke
+Hey, what gives, Ted? This isn't Yukiko's castle!
+
+
+SCENE: RIGHT = 7
+Teddie
+I know, I know. But I couldn't help myself! I
+smelled something different, so I followed it!
+
+SCENE: LEFT = 2
+Yosuke
+Different is right. I don't remember this being
+in the TV world at all.
+
+SCENE: RIGHT = 1
+Yu
+Me neither. What is this place?
+
+
+SCENE: LEFT = 18, BGM = 0
+Fuuka
+It's... Tartarus.
+
+
+SCENE: RIGHT = 1
+Yu
+... ...!
+
+
+SCENE: LEFT = 14
+Aigis
+Fuuka-san's statement is correct. The look of this
+area... It is unmistakably Tartarus.
+
+SCENE: RIGHT = 15, BGM = 12
+Shinjiro
+I see you've found me.
+
+
+SCENE: LEFT = 12
+Akihiko
+...Shinji! You're all right!
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Hmph. Why wouldn't I be? I'm at home here.
+
+
+SCENE: LEFT = 10
+Yukari
+Huh? What are you saying, Shinjiro-san?
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Don't you get it already? What we've been looking
+for all this time... It's not here.
+
+SCENE: RIGHT = 15
+Shinjiro
+Our mission has long since ended.
+
+
+SCENE: LEFT = 12
+Akihiko
+Talk straight, dammit! What are you getting at?
+
+
+SCENE: RIGHT = 15
+Shinjiro
+This is the world of Shadows. Shadows are made of
+raw instinct. They live to devour and kill. But at
+their heart, they are born from human emotion.
+SCENE: RIGHT = 15
+Shinjiro
+Sometimes, on rare occasion, a Shadow can awaken
+to the very emotion it was born from, and take on
+a less terrifying form.
+SCENE: LEFT = 7
+Teddie
+That sounds just like me...
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Now, if a human's memories are strong enough, they
+too can give rise to Shadows. Memories filled with
+the pangs of grief and loss...
+SCENE: LEFT = 9
+Minato
+... ...
+
+
+SCENE: RIGHT = 15, BGM = 13
+Shinjiro
+I'll be blunt... The first time Mitsuru mentioned
+Nyx, I had no idea what she was talking about.
+Hell, I still don't.
+SCENE: RIGHT = 15
+Shinjiro
+And when Minato-san started talking about the bullet
+in my chest... That was a real shocker. Up to this
+point I'd never even noticed it there.
+SCENE: RIGHT = 15
+Shinjiro
+Any time you guys mentioned something I'd never
+heard of, my head started to split. Not as bad
+as my Persona trying to get me, but still.
+SCENE: RIGHT = 15
+Shinjiro
+But in the back of my mind, I had a creeping
+suspicion. So when the Shadows swarmed in
+and you all ran... Well, I stayed behind.
+SCENE: LEFT = 3
+Yukiko
+So that's why you weren't with us...!
+
+
+SCENE: RIGHT = 12
+Akihiko
+Dammit, Shinji! The hell were you thinking?
+Did you have a death wish?
+
+SCENE: LEFT = 15
+Shinjiro
+Shut it, Aki. For one thing, I'm already dead. And
+for another...
+
+SCENE: LEFT = 15
+Shinjiro
+Those Shadows? ...They didn't lay a finger on me.
+Not a single one of 'em.
+
+SCENE: RIGHT = 10
+Yukari
+No... It can't be...
+
+
+SCENE: LEFT = 15
+Shinjiro
+Well, you're back at Tartarus now. But if you
+were following what I've been saying, you'd
+know this isn't really Tartarus.
+SCENE: RIGHT = 16
+Ken
+Then what is it?
+
+
+SCENE: LEFT = 15
+Shinjiro
+You guys ever stop and wonder why your memories
+seem to be messed up?
+
+SCENE: LEFT = 15
+Shinjiro
+This TV world... It's nothing but a mirror. It
+reflects the emotions of real people, as Teddie
+said a little while ago.
+SCENE: LEFT = 15
+Shinjiro
+What I'm trying to say is... We're not real people.
+
+
+SCENE: LEFT = 15
+Shinjiro
+It sucked, finding out I was a Shadow.
+
+
+SCENE: RIGHT = 11
+Junpei
+... ...!
+
+
+SCENE: LEFT = 12
+Akihiko
+... ...!
+
+
+SCENE: RIGHT = 14
+Aigis
+... ...
+
+
+SCENE: LEFT = 13
+Mitsuru
+... ...!
+
+
+SCENE: RIGHT = 18
+Fuuka
+... ...!
+
+
+SCENE: LEFT = 16
+Ken
+... ...!
+
+
+SCENE: RIGHT = 9
+Minato
+... ...!
+
+
+SCENE: LEFT = 15, BGM = 13
+Shinjiro
+I don't know what emotions you guys came from,
+but I can tell that the real Aki's been missing
+me like hell. That's why I'm here.
+SCENE: LEFT = 15
+Shinjiro
+I would hazard a guess that at least one more
+of your real selves is dead, outside the TV. But
+that's just a guess.
+SCENE: RIGHT = 9
+Minato
+... ...
+
+
+SCENE: LEFT = 15
+Shinjiro
+And I mean, think about it. If two years had
+really passed, we'd all look older by now.
+
+SCENE: RIGHT = 1
+Yu
+So you're all Shadows...
+
+
+SCENE: LEFT = 2
+Yosuke
+Lingering emotions...
+
+
+SCENE: RIGHT = 4
+Chie
+Emotions given shape and form...
+
+
+SCENE: LEFT = 3
+Yukiko
+Wait... So if you're all someone's Shadows...
+Does that mean your real selves were thrown in
+here, too?
+SCENE: RIGHT = 1
+Yu
+I hate to say it, but we have no way of finding that
+out right now. We'll just have to see once we
+get back to the real world.
+SCENE: LEFT = 5
+Kanji
+Well then, when that time comes... We'll just
+get 'em the hell out, like we always do!
+
+SCENE: RIGHT = 2
+Yosuke
+One more thing I'm concerned about. Since you're
+all someone's Shadows, does that mean we have to
+fight you, too?
+SCENE: LEFT = 15
+Shinjiro
+That won't be necessary. We'll disappear soon
+enough. We have you to thank for that.
+
+SCENE: RIGHT = 6
+Naoto
+... ...!
+
+
+SCENE: LEFT = 15
+Shinjiro
+You made us question ourselves. You helped
+us realize what we truly are... Shadows.
+Nothing more.
+SCENE: RIGHT = 7
+Teddie
+No, that's not true! You can be more than that!
+You don't have to disappear!
+
+SCENE: LEFT = 15
+Shinjiro
+Our existence was painful... We've been roaming
+this TV world for a long time now, looking
+for the top of Tartarus.
+SCENE: LEFT = 15
+Shinjiro
+Funny thing is, we were never meant to find it.
+
+
+SCENE: RIGHT = 9
+Minato
+He's right, you guys. We just have to accept this.
+...The fact that we're only memories.
+
+SCENE: LEFT = 10
+Yukari
+Somewhere out there, our real selves must be
+grieving over a loss we don't even know yet.
+
+SCENE: RIGHT = 11
+Junpei
+...A loss that we can never know.
+
+
+SCENE: LEFT = 13
+Mitsuru
+... ...
+
+
+SCENE: RIGHT = 19
+Koromaru
+*Whimper*
+
+
+SCENE: LEFT = 1
+Yu
+So... What are you going to do now?
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Let's just enjoy the last moments of our
+existence together, before we're gone
+for good.
+SCENE: RIGHT = 15
+Shinjiro
+...Let's have some fun.
+
+
+RACE = 5,8,9,10,11,14

@@ -1,0 +1,15 @@
+name = Cu Chulainn
+arcana = 16
+max_speed = 0
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.00
+bufu = 0.00
+garu = 0.20
+zio = 0.37
+hama = 0.05
+mudo = 0.00
+phys = 0.38
+spec = 3,4,5,7

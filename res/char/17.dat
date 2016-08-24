@@ -1,0 +1,8 @@
+name = Gold Teddie
+max_speed = 3
+accel = 5
+offroad = 3
+recovery = 5
+threshold = 2
+health = 900
+persona = 81/59/60/61/72/73/74

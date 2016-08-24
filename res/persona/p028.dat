@@ -1,0 +1,15 @@
+name = Raphael
+arcana = 6
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.05
+bufu = 0.05
+garu = 0.35
+zio = 0.05
+hama = 0.20
+mudo = 0.00
+phys = 0.30
+spec = 1,2,3,4,5,7

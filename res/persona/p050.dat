@@ -1,0 +1,15 @@
+name = Nigi Mitama
+arcana = 14
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 1
+agi = 0.00
+bufu = 0.15
+garu = 0.35
+zio = 0.00
+hama = 0.25
+mudo = 0.25
+phys = 0.00
+spec = 2,3,5,6

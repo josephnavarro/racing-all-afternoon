@@ -1,0 +1,15 @@
+name = Tomoe Gozen
+arcana = 7
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.00
+bufu = 0.31
+garu = 0.23
+zio = 0.06
+hama = 0.00
+mudo = 0.00
+phys = 0.40
+spec = 2,3,4,7

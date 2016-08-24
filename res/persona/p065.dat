@@ -1,0 +1,15 @@
+name = Yatagarasu
+arcana = 19
+max_speed = 1
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.14
+bufu = 0.09
+garu = 0.29
+zio = 0.19
+hama = 0.29
+mudo = 0.00
+phys = 0.00
+spec = 1,2,3,4,5

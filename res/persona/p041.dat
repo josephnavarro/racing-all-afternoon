@@ -1,0 +1,15 @@
+name = Cerberus
+arcana = 11
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.35
+bufu = 0.00
+garu = 0.05
+zio = 0.05
+hama = 0.00
+mudo = 0.25
+phys = 0.20
+spec = 1,6

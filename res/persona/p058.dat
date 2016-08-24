@@ -1,0 +1,15 @@
+name = Mara
+arcana = 16
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 1
+threshold = 0
+agi = 0.40
+bufu = 0.00
+garu = 0.25
+zio = 0.00
+hama = 0.00
+mudo = 0.00
+phys = 0.35
+spec = 1,3,7

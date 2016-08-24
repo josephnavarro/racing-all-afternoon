@@ -1,0 +1,15 @@
+name = Hermes
+arcana = 1
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.30
+bufu = 0.00
+garu = 0.27
+zio = 0.08
+hama = 0.00
+mudo = 0.00
+phys = 0.37
+spec = 1,3,4,7

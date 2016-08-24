@@ -1,0 +1,191 @@
+SCENE: LEFT = 3, BGM = 5, SCENE = 0
+Yukiko
+It seems the go-karts have taken us somewhere else
+again... Somewhere I really don't want to be
+right now.
+SCENE: RIGHT = 4
+Chie
+I'm sorry, Yukiko. But I agree, we're not getting
+any closer to completing our mission.
+
+SCENE: LEFT = 2
+Yosuke
+Yeah, what gives, partner? Don't you think all this
+racing is a waste of time?
+
+SCENE: RIGHT = 1
+Yu
+Calm down. We had to get Shinjiro-san out of there
+as fast as possible. And besides, wasn't using the
+go-karts your idea, Yosuke?
+SCENE: LEFT = 6
+Naoto
+Enough bickering. What's important is that we're
+all okay.
+
+SCENE: RIGHT = 10
+Yukari
+Shinjiro-san, are you all right?
+
+
+SCENE: LEFT = 15
+Shinjiro
+Yeah, I'm good now.
+
+
+SCENE: RIGHT = 6
+Naoto
+What intrigues me is that Akihiko-san mentioned
+Persona suppressants. Would you mind elaborating
+a little?
+SCENE: LEFT = 12
+Akihiko
+Sometimes, people are unable to control their
+Personas. The Persona gets violent and tries
+to kill its host.
+SCENE: RIGHT = 11
+Junpei
+Not too long ago, a friend of mine, Chidori, had
+her Persona try and strangle her, so Shinjiro-san
+gave her some pills.
+SCENE: LEFT = 15, BGM = 0
+Shinjiro
+That's what usually happens. But that feeling I
+had just now... That wasn't my Persona.
+
+SCENE: RIGHT = 12
+Akihiko
+... ...!
+
+
+SCENE: LEFT = 15, BGM = 10
+Shinjiro
+I'll be honest with you guys... I've never felt
+my head splitting like that in my life.
+
+SCENE: RIGHT = 16
+Ken
+Wait... Your Persona wasn't going berserk?
+
+
+SCENE: LEFT = 15
+Shinjiro
+I know the difference between an enraged Persona
+and a gaping hole in my memory.
+
+SCENE: RIGHT = 18
+Fuuka
+...!
+
+
+SCENE: LEFT = 6
+Naoto
+... ...
+
+
+SCENE: RIGHT = 15
+Shinjiro
+When you mentioned Death... What the hell was
+that? You guys have never said anything like that
+around me before.
+SCENE: LEFT = 13
+Mitsuru
+Well, we... That is...
+
+
+SCENE: RIGHT = 9
+Minato
+He's right. He wasn't with us when we learned about
+the Fall. He wasn't even with us when Ryoji-san
+came to Gekkoukan.
+SCENE: LEFT = 15
+Shinjiro
+...Aagh!!
+
+
+SCENE: RIGHT = 10, BGM = 0
+Yukari
+Minato-san... Do you know what's going on?
+
+
+SCENE: LEFT = 9
+Minato
+I won't say I know everything. But I feel like I need
+to mention something that's been bothering me
+for a while.
+SCENE: LEFT = 9
+Minato
+Haven't any of you stopped to question why Shinjiro-
+san is with us? Don't you remember? ...He's dead.
+
+SCENE: RIGHT = 16, BGM = 10
+Ken
+What? ...Dead?
+
+
+SCENE: LEFT = 9
+Minato
+October 4. The full moon mission. He died taking
+a bullet for you, Ken.
+
+SCENE: RIGHT = 15
+
+>Shinjiro opens his coat and looks at what appears
+to be a bullet wound in his chest.
+
+SCENE: RIGHT = 15
+Shinjiro
+... ...!!!
+
+
+SCENE: LEFT = 16
+Ken
+... ...!
+
+
+SCENE: RIGHT = 15
+Shinjiro
+No way... How the hell... What am I...?
+...Argh!
+
+SCENE: LEFT = 6
+Naoto
+... ...
+
+
+SCENE: RIGHT = 12
+Akihiko
+Minato-san! Is there something you're not telling
+us? As our leader, shouldn't you-
+
+SCENE: LEFT = 13
+Mitsuru
+Quiet! Fighting won't get us anywhere!
+
+
+SCENE: RIGHT = 14, BGM = 9
+Aigis
+Forgive the intrusion, but my sensors indicate
+more Shadows approaching.
+
+SCENE: LEFT = 2
+Yosuke
+Seriously? Why now?
+
+
+SCENE: RIGHT = 3
+Yukiko
+Hey, I know! Let's escape through the castle!
+
+
+SCENE: LEFT = 1
+Yu
+Race you there.
+
+
+SCENE: RIGHT = 2
+Yosuke
+Again? Man, what's with you today?
+
+
+RACE = 2,3,0,1,8,11

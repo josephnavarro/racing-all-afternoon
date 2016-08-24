@@ -1,0 +1,15 @@
+name = Take-Mikazuchi
+arcana = 4
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.15
+bufu = 0.05
+garu = 0.00
+zio = 0.35
+hama = 0.00
+mudo = 0.00
+phys = 0.45
+spec = 1,2,4,7

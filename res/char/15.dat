@@ -1,0 +1,8 @@
+name = Shinjiro
+max_speed = 4
+accel = 5
+offroad = 2
+recovery = 4
+threshold = 3
+health = 950
+persona = 21/22/23/24/50/51/52

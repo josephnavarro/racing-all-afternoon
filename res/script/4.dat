@@ -1,0 +1,196 @@
+SCENE: LEFT = 4, BGM = 5, SCENE = 2
+Chie
+...Yukiko-chan? Teddie? Naoto-kun? Oh, great! All
+this kart racing got everyone split up!
+
+SCENE: RIGHT = 2
+Yosuke
+Hey, what about me? Aren't you worried whether
+I'm okay?
+
+SCENE: LEFT = 4
+Chie
+Why would anyone worry about you? Besides, I can
+see you right there.
+
+SCENE: RIGHT = 2
+Yosuke
+Geez, Chie, that's cold!
+
+
+SCENE: LEFT = 4
+Chie
+Hey, don't take it so hard! I was just kidding.
+But seriously, where are Yu and the others?
+
+SCENE: RIGHT = 1
+Yu
+I'm right here. So is Kanji-kun.
+
+
+SCENE: LEFT = 5
+Kanji
+The question is, where'd all those new guys head
+off to?
+
+SCENE: RIGHT = 9
+Minato
+I was able to keep up. Currently, we're missing
+Mitsuru-san, Shinjiro-san, and Aigis.
+
+SCENE: LEFT = 12
+Akihiko
+Dammit! We can't find Shinji?
+
+
+SCENE: RIGHT = 4
+Chie
+Just as we were learning something about
+him, too...
+
+SCENE: LEFT = 11
+Junpei
+Hey, that's right. ...Minato-san! Didn't you say he
+was dead? What was up with that?
+
+SCENE: RIGHT = 9, BGM = 8
+Minato
+... ...
+
+
+SCENE: LEFT = 10
+Yukari
+Minato-san... You've been acting strange since then.
+Is there something you're hiding from us?
+
+SCENE: RIGHT = 9
+Minato
+I've only told you as much as I can remember. I
+don't even know why we're in this TV world.
+
+SCENE: LEFT = 12
+Akihiko
+As much as you can remember? So what do you
+remember, aside from Shinji's death?
+
+SCENE: RIGHT = 9, BGM = 11
+Minato
+...Let's start from the beginning. All of us
+here know what Nyx is, correct?
+
+SCENE: LEFT = 10
+Yukari
+Right. And before we found ourselves here, we
+were about to reach the top of Tartarus.
+
+SCENE: RIGHT = 11
+Junpei
+Not to mention, Strega was done for. We defeated
+Takaya, and Jin was swarmed by Shadows.
+
+SCENE: LEFT = 12
+Akihiko
+That rings a bell, all right. But here's a question...
+Do any of us remember anything before we climbed
+Tartarus?
+SCENE: RIGHT = 11
+Junpei
+...Before? What do you mean?
+
+
+SCENE: LEFT = 12
+Akihiko
+We last entered Tartarus on January 31st. I'm asking
+if anyone remembers what happened on the 30th.
+Or the month of January, for that matter.
+SCENE: RIGHT = 16
+Ken
+Of course I do! The day before, we... We were just...
+That is, um...
+
+SCENE: LEFT = 9
+Minato
+What are you getting at?
+
+
+SCENE: RIGHT = 12, BGM = 0
+Akihiko
+Don't take my word for it, but I think someone's
+been messing with our memories. Someone... Or
+something.
+SCENE: LEFT = 11
+Junpei
+... ...!
+
+
+SCENE: RIGHT = 10
+Yukari
+... ...!
+
+
+SCENE: LEFT = 12
+Akihiko
+Don't you see? Aside from Minato-san, none of us
+knew Shinji was dead.
+
+SCENE: LEFT = 12
+Akihiko
+I'll be honest, I denied it for a while, myself.
+But our leader's never lied to us before.
+
+SCENE: RIGHT = 11
+Junpei
+Um, hello? Shinjiro-san was walking, talking, and
+breathing like the rest of us! I've never seen a
+dead guy do that.
+SCENE: LEFT = 12
+Akihiko
+Then explain the gaping bullet wound in his chest.
+
+
+SCENE: RIGHT = 11
+Junpei
+... ...
+
+
+SCENE: LEFT = 9
+Minato
+Akihiko-san's right. Something's not adding up. In the
+very least, what we do know is that our memories are
+all missing.
+SCENE: RIGHT = 18
+Fuuka
+If only the others were here right now... Then we could
+sort it out more easily.
+
+SCENE: LEFT = 5, BGM = 5
+Kanji
+Hey, uh... Fuuka-san, was it? Didn't you say your
+Persona could navigate? Can't you tell where the rest
+of our group went?
+SCENE: RIGHT = 18
+Fuuka
+I can only tell that they are quite a distance away.
+I'm afraid I can't pinpoint their exact location.
+
+SCENE: LEFT = 1
+Yu
+Dammit, if only Rise were here to help you out...
+Or even Teddie.
+
+SCENE: RIGHT = 4
+Chie
+Listen up, you guys! I say we go look for them! Get
+in the go-karts, because we're going exploring!
+
+SCENE: LEFT = 2
+Yosuke
+Come on, really? And don't say it, partner...
+
+
+SCENE: RIGHT = 1
+Yu
+This calls for a race!
+
+
+RACE = 3,0,4,9,10,15

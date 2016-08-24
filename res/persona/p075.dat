@@ -1,0 +1,15 @@
+name = Izanagi
+arcana = 0
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.14
+bufu = 0.14
+garu = 0.00
+zio = 0.37
+hama = 0.00
+mudo = 0.00
+phys = 0.35
+spec = 1,2,4,7

@@ -1,0 +1,15 @@
+name = Atavaka
+arcana = 21
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 1
+threshold = 1
+agi = 0.05
+bufu = 0.00
+garu = 0.10
+zio = 0.16
+hama = 0.34
+mudo = 0.00
+phys = 0.35
+spec = 1,3,4,5,7

@@ -1,0 +1,15 @@
+name = Slime
+arcana = 0
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 1
+threshold = 0
+agi = 0.20
+bufu = 0.00
+garu = 0.10
+zio = 0.10
+hama = 0.00
+mudo = 0.00
+phys = 0.60
+spec = 1,3,4,7

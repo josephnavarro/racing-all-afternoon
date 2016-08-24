@@ -1,0 +1,8 @@
+name = Aigis
+max_speed = 5
+accel = 2
+offroad = 2
+recovery = 5
+threshold = 4
+health = 900
+persona = 29/30/31/32/1/3/4

@@ -1,0 +1,15 @@
+name = Kintoki-Douji
+arcana = 17
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.05
+bufu = 0.45
+garu = 0.15
+zio = 0.15
+hama = 0.00
+mudo = 0.00
+phys = 0.20
+spec = 1,2,3,4,7

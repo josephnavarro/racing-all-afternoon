@@ -1,0 +1,15 @@
+name = Decarabia
+arcana = 0
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.35
+bufu = 0.08
+garu = 0.08
+zio = 0.08
+hama = 0.00
+mudo = 0.16
+phys = 0.25
+spec = 1,2,3,4,6,7

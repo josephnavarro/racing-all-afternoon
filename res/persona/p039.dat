@@ -1,0 +1,15 @@
+name = Arahabaki
+arcana = 9
+max_speed = 0
+accel = 1
+offroad = 1
+recovery = 1
+threshold = 0
+agi = 0.00
+bufu = 0.00
+garu = 0.22
+zio = 0.22
+hama = 0.22
+mudo = 0.12
+phys = 0.22
+spec = 3,4,5,6,7

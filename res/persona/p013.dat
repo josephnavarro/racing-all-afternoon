@@ -1,0 +1,15 @@
+name = Penthesilea
+arcana = 3
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.17
+bufu = 0.35
+garu = 0.17
+zio = 0.24
+hama = 0.00
+mudo = 0.00
+phys = 0.07
+spec = 1,2,3,4,7

@@ -1,0 +1,8 @@
+name = Ken
+max_speed = 2
+accel = 5
+offroad = 5
+recovery = 3
+threshold = 3
+health = 850
+persona = 33/34/35/36/37/38/39

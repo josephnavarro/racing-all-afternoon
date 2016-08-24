@@ -1,0 +1,163 @@
+SCENE: BGM = 0, SCENE = 10
+
+>At the top of the TV world's Tartarus...
+
+
+SCENE: LEFT = 7
+Teddie
+Shinji...
+
+
+SCENE: RIGHT = 15
+Shinjiro
+...Hm? What do you want now? It's all over.
+The others have disappeared already. I'm just
+waiting for my turn.
+SCENE: LEFT = 7
+Teddie
+Well, I just wanted to say something before...
+You know...
+
+SCENE: RIGHT = 15
+Shinjiro
+Then spit it out, will ya? Time's in short supply.
+
+
+SCENE: LEFT = 7, BGM = 14
+Teddie
+I know we've only just met... But we're the same,
+aren't we? We're both Shadows.
+
+SCENE: RIGHT = 15
+Shinjiro
+Wait, seriously? You're...
+
+
+SCENE: LEFT = 7
+Teddie
+That's right! I used to be a regular Shadow a long
+time ago. And then one day, I gained emotions.
+
+SCENE: LEFT = 7
+Teddie
+After that, I tried forgetting about my past as a
+Shadow. But sooner or later, it came back to
+me... For a while, I was scared.
+SCENE: LEFT = 7
+Teddie
+But Sensei helped me move on! He showed me that I
+could make a change in the human world, even if
+I was just a Shadow!
+SCENE: LEFT = 7
+Teddie
+That's why I'm here now... I want to help you,
+Shinji, like Sensei helped me!
+
+SCENE: LEFT = 7
+Teddie
+You can come with us to the human world. I'll show
+you Junes, and we can eat ramen, and pick on
+Yosuke, and go to the beach, and-
+SCENE: RIGHT = 15
+Shinjiro
+...Sorry, but I'll pass.
+
+
+SCENE: LEFT = 7
+Teddie
+...Huh? Why?
+
+
+SCENE: RIGHT = 15
+Shinjiro
+I appreciate the offer, but I'd rather just
+disappear. I shouldn't exist anymore, and
+especially not in that world.
+SCENE: RIGHT = 15
+Shinjiro
+My true self died a long time ago. I'm nothing
+more than a memory. A memory of a dead man.
+
+SCENE: LEFT = 7
+Teddie
+Oh, I see...
+
+
+SCENE: RIGHT = 15
+Shinjiro
+...But I'll tell you what.
+
+
+SCENE: LEFT = 7
+Teddie
+...!
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Don't forget what you saw today. Don't forget the
+fun you had, the people you met... Even if they
+weren't really people to begin with.
+SCENE: RIGHT = 15
+Shinjiro
+Just hope that someday, somewhere along the line,
+in that other world...
+
+SCENE: RIGHT = 15
+Shinjiro
+...Hope that you'll meet one of us. The real us.
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Naturally, don't go looking for me. I won't be
+there to greet you.
+
+SCENE: LEFT = 7
+Teddie
+I know. Thank you, Shinji.
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Well, you can leave now. You got what you wanted,
+right?
+
+SCENE: LEFT = 7
+Teddie
+Not quite.
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Then what more do you want?
+
+
+SCENE: LEFT = 7
+Teddie
+Ta-dah! Look at these! I made these go-karts
+special! Just for the two of us!
+
+SCENE: RIGHT = 15
+Shinjiro
+Oh, I get it. You want to race one more time, eh?
+
+
+SCENE: LEFT = 7
+Teddie
+I-I mean... I-If you don't mind, that is.
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Haha, all right, then. But just this once. I
+guarantee I won't show up the next time you
+look for me.
+SCENE: LEFT = 7
+Teddie
+Woohoo! That makes me bear-y happy!
+
+
+RACE = 14,14
+
+

@@ -1,0 +1,15 @@
+name = Yomotsu-Shikome
+arcana = 9
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 1
+agi = 0.05
+bufu = 0.20
+garu = 0.20
+zio = 0.05
+hama = 0.00
+mudo = 0.45
+phys = 0.05
+spec = 1,2,3,4,6,7

@@ -1,0 +1,15 @@
+name = Nekomata
+arcana = 1
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 1
+agi = 0.36
+bufu = 0.00
+garu = 0.20
+zio = 0.20
+hama = 0.00
+mudo = 0.00
+phys = 0.24
+spec = 1,3,4,7

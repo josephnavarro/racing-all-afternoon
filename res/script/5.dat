@@ -1,0 +1,111 @@
+SCENE: LEFT = 5, BGM = 5, SCENE = 3
+Kanji
+Hey, this place looks familiar. Isn't this where
+Naoto's Shadow...?
+
+SCENE: RIGHT = 6
+Naoto
+Yes, it is. And it's about time you showed up.
+
+
+SCENE: LEFT = 5
+Kanji
+...Agh! Hey, d-d-don't sneak up on me like that!
+
+
+SCENE: RIGHT = 6
+Naoto
+I'm sorry, I couldn't resist. At any rate, are the
+others with you?
+
+SCENE: LEFT = 1
+Yu
+Yeah, we're all here. ...So this is where you've
+been hiding, eh? Are you guys all right?
+
+SCENE: RIGHT = 7
+Teddie
+Gasp! It's Sensei! I was so worried about you!
+When we got separated, I was... I was just...
+Waaaaahhhhh!
+SCENE: LEFT = 4
+Chie
+Aw, don't cry, Teddie! It's okay, we're back
+in one group, like we used to be.
+
+SCENE: RIGHT = 13, BGM = 0
+Mitsuru
+Well, that's not entirely true. Tell me something...
+Is Shinjiro-san with you?
+
+SCENE: LEFT = 12, BGM = 8
+Akihiko
+... ...!
+
+
+SCENE: RIGHT = 10
+Yukari
+... ...!
+
+
+SCENE: LEFT = 9
+Minato
+You mean... He's not here?
+
+
+SCENE: RIGHT = 13
+Mitsuru
+I see. This is troublesome. But no, when we became
+separated, there were only five of us... Myself,
+Aigis, Naoto-san, Teddie, and Yukiko-san.
+SCENE: LEFT = 3
+Yukiko
+So you mean to say... Shinjiro-san is still missing?
+
+
+SCENE: RIGHT = 2
+Yosuke
+...I'm afraid so. We thought he was with you guys.
+
+
+SCENE: LEFT = 11
+Junpei
+Shit! Where could he be? He was still injured,
+wasn't he?
+
+SCENE: RIGHT = 7
+Teddie
+Not to mention, he shouldn't be able to see through
+the fog! I don't remember giving any of you guys
+my special Teddie glasses!
+SCENE: LEFT = 6, BGM = 11
+Naoto
+...Wait a second. Both of you are correct. Not only is
+Shinjiro-san unable to see through the TV world fog...
+
+SCENE: LEFT = 6
+Naoto
+...But when we left him, he was also reeling from his
+migraine. Under both of those conditions, he would
+have been in no state to drive very far.
+SCENE: RIGHT = 3
+Yukiko
+So what are you saying, Naoto-kun? Don't tell me you
+think he's still back there?
+
+SCENE: LEFT = 6
+Naoto
+I can't say for certain. But I suggest we return to
+the castle to cover as much ground as possible.
+
+SCENE: RIGHT = 7
+Teddie
+In that case, follow me! My sense of smell may not
+be as sharp as before, but I know Yukiko's castle
+like the back of my paw!
+SCENE: LEFT = 5
+Kanji
+...Like the back of your paw?
+
+
+RACE = 4,6,8,12,2,3

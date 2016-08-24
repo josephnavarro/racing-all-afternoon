@@ -1,0 +1,15 @@
+name = Jikokuten
+arcana = 11
+max_speed = 1
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.10
+bufu = 0.05
+garu = 0.25
+zio = 0.15
+hama = 0.00
+mudo = 0.00
+phys = 0.45
+spec = 1,2,3,4,7

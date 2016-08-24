@@ -1,0 +1,9 @@
+name = Yukari
+max_speed = 2
+accel = 5
+offroad = 4
+recovery = 5
+threshold = 2
+health = 850
+persona = 25/26/27/28/10/11/12
+

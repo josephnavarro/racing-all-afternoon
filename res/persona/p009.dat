@@ -1,0 +1,15 @@
+name = Lucia
+arcana = 2
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.20
+bufu = 0.20
+garu = 0.20
+zio = 0.20
+hama = 0.05
+mudo = 0.05
+phys = 0.10
+spec = 1

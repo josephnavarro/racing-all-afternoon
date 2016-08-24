@@ -1,0 +1,15 @@
+name = Black Frost
+arcana = 0
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.39
+bufu = 0.39
+garu = 0.00
+zio = 0.00
+hama = 0.00
+mudo = 0.16
+phys = 0.12
+spec = 1,2,6,7

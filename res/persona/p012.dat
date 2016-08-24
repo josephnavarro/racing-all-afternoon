@@ -1,0 +1,15 @@
+name = Kikuri-Hime
+arcana = 2
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.38
+bufu = 0.12
+garu = 0.27
+zio = 0.19
+hama = 0.00
+mudo = 0.00
+phys = 0.04
+spec = 1,2,3,4,7

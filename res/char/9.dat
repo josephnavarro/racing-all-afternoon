@@ -1,0 +1,9 @@
+name = Minato
+max_speed = 3
+accel = 4
+offroad = 4
+recovery = 4
+threshold = 3
+health = 900
+persona = 1/2/3/47/48/49/71
+

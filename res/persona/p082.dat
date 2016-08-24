@@ -1,0 +1,15 @@
+name = Clotho
+arcana = 10
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 1
+threshold = 0
+agi = 0.00
+bufu = 0.03
+garu = 0.35
+zio = 0.03
+hama = 0.35
+mudo = 0.04
+phys = 0.20
+spec = 2,3,4,5,6,7

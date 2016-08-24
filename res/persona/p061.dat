@@ -1,0 +1,15 @@
+name = Helel
+arcana = 17
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 1
+agi = 0.35
+bufu = 0.05
+garu = 0.05
+zio = 0.05
+hama = 0.25
+mudo = 0.25
+phys = 0.00
+spec = 1,2,3,4,5,6

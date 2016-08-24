@@ -1,0 +1,15 @@
+name = Alice
+arcana = 13
+max_speed = 0
+accel = 0
+offroad = 1
+recovery = 1
+threshold = 0
+agi = 0.10
+bufu = 0.05
+garu = 0.05
+zio = 0.05
+hama = 0.00
+mudo = 0.75
+phys = 0.00
+spec = 1,2,3,4,6

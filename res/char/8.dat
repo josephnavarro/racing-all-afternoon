@@ -1,0 +1,8 @@
+name = Rise
+max_speed = 2
+accel = 4
+offroad = 4
+recovery = 3
+threshold = 5
+health = 900
+persona = 84/26/27/28/68/69/70

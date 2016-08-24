@@ -1,0 +1,19 @@
+name = Teddie
+max_speed = 3
+accel = 5
+offroad = 4
+recovery = 3
+threshold = 3
+health = 950
+persona = 81/59/60/61/62/63/64
+STORY:
+Chapter 7
+Get 1st place
+
+ Teddie is moved by Shadow
+  Shinjiro's revealing speech,
+  and reaches out to him atop
+      Tartarus for one last race.
+
+
+

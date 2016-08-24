@@ -1,0 +1,15 @@
+name = Sukuna Hikona
+arcana = 10
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 1
+threshold = 0
+agi = 0.00
+bufu = 0.00
+garu = 0.35
+zio = 0.40
+hama = 0.15
+mudo = 0.10
+phys = 0.00
+spec = 3,4,5,6

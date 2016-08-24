@@ -1,0 +1,15 @@
+name = Atropos
+arcana = 10
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 1
+threshold = 0
+agi = 0.00
+bufu = 0.13
+garu = 0.35
+zio = 0.00
+hama = 0.20
+mudo = 0.15
+phys = 0.17
+spec = 2,3,5,6,7

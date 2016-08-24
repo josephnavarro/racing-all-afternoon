@@ -1,0 +1,15 @@
+name = Yaksini
+arcana = 3
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.30
+bufu = 0.00
+garu = 0.00
+zio = 0.15
+hama = 0.15
+mudo = 0.15
+phys = 0.25
+spec = 1,4,5,6,7

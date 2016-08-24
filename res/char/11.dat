@@ -1,0 +1,8 @@
+name = Junpei
+max_speed = 4
+accel = 4
+offroad = 2
+recovery = 5
+threshold = 3
+health = 950
+persona = 5/6/7/8/42/43/44

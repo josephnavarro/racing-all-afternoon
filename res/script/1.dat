@@ -1,0 +1,361 @@
+SCENE: LEFT = 1, BGM = 5, SCENE = 4
+Yu
+It's been a long year, but we've finally found the 
+real culprit. Who would've thought it was that gas
+station attendant? Talk about random.
+SCENE: RIGHT = 2
+Yosuke
+I'd have never guessed. But anyway, partner, let's 
+go kick some ass! Just gather up your top three
+party members as usual.
+SCENE: RIGHT = 2
+Yosuke
+Of course, knowing you, you'll pick me, Yukiko, and
+Chie. After all, we're the original four! Been
+through this since the beginning and all.
+SCENE: LEFT = 5
+Kanji
+Hey, wait a minute! Why does Yosuke over here get to
+call the shots? Senpai, you'll let me fight this
+Izanami asshole, won't ya?
+SCENE: RIGHT = 1
+Yu
+Wait, it's not like that... I mean, um...
+
+
+SCENE: LEFT = 3
+Yukiko
+Kanji-kun, I'm sorry, but we can't bring five people
+to battle all at once. It's against the rules.
+
+SCENE: RIGHT = 5
+Kanji
+Wait... Really? I don't remember having rules
+around here, but if you say so, it can't be helped.
+I'll just take Yosuke's place. No hard feelings.
+SCENE: LEFT = 4
+Chie
+Kanji! She's kidding! There's no rules like
+that! ...Although now that you mention it, we've
+always tackled the TV world four at a time...
+SCENE: RIGHT = 6
+Naoto
+So it's settled. Kanji, Yukiko-san, and I will go
+with Senpai to take on Izanami. Simple as that.
+
+SCENE: LEFT = 1
+Yu
+I'm so confused.
+
+
+SCENE: RIGHT = 2
+Yosuke
+Partner, you're not going to listen to them, are you?
+Just bring me and Naoto-kun and Teddie, since the
+others are... Hey, wait a minute, where's Rise?
+SCENE: LEFT = 1
+Yu
+Oh yeah, didn't she tell you? She said she had to go
+do some preparations for... "Dancing all night," or
+something. Didn't know what she meant.
+SCENE: RIGHT = 4
+Chie
+Sounds like a waste of time. But I guess we can't talk,
+since wasting time is what we're doing right now!
+C'mon, Yu, just pick your team already!
+SCENE: LEFT = 1
+Yu
+Sigh... I didn't sign up for this. Hey, Teddie, wanna
+come with? Let's just get this done already.
+
+SCENE: RIGHT = 7
+Teddie
+Hold on, you guys! I smell something fishy! We can't
+go just yet!
+
+SCENE: LEFT = 14, BGM = 6
+???
+Suspicious individuals detected. Shall we engage
+in combat?
+
+SCENE: LEFT = 9
+???
+No, let them be. Maybe they have answers.
+
+
+SCENE: RIGHT = 1
+Yu
+Hold on... I've got some questions for you, myself.
+Who are you, and how'd you get inside the TV?
+
+SCENE: LEFT = 9
+???
+...TV? ...What TV? We came here through Tartarus.
+But let me ask you this... How are you awake
+during the Dark Hour?
+SCENE: RIGHT = 1
+Yu
+Dark Hour? Tartarus? Okay, now I'm really
+confused.
+
+SCENE: LEFT = 9, BGM = 7
+Minato
+Let me clear up some of that confusion. The name's
+Minato. The girl over there's Aigis. And since you're
+conscious, I assume you know what a Persona is.
+SCENE: RIGHT = 1
+Yu
+Other Persona users? Well, I can't say I trust you yet,
+but at least we have common ground. Are there any
+more of you?
+SCENE: LEFT = 11
+Junpei
+Junpei Iori, reporting for duty! Who's the man? I'm
+the man! Home run!
+
+SCENE: RIGHT = 10
+Yukari
+I'm sorry about that. Just ignore him. Oh yeah,
+my name's Yukari. Nice to meet you. 
+
+SCENE: LEFT = 11
+Junpei
+Hey, no need to be like that! I was just being
+friendly! Wait... I think I've said that before.
+
+SCENE: RIGHT = 12
+Akihiko
+All right, enough. Let's just get this over with.
+The name's Akihiko. And the others are Mitsuru,
+Shinji, Fuuka, and Ken.
+SCENE: LEFT = 13
+Mitsuru
+The pleasure's all mine.
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Hmph.
+
+
+SCENE: LEFT = 18
+Fuuka
+It's very nice to meet you all.
+
+
+SCENE: RIGHT = 16
+Ken
+Pleased to meetcha.
+
+
+SCENE: LEFT = 10
+Yukari
+There's one more. Say hi, Koromaru!
+
+
+SCENE: RIGHT = 19
+Koromaru
+*Whine*
+
+
+SCENE: LEFT = 9
+Minato
+Now do you trust us? We mean no harm. We only
+want to get out of here. We're on a mission
+of our own, just like you seem to be.
+SCENE: RIGHT = 1
+Yu
+Fair enough. I suppose we'll tell you our names, as
+well. I'm Yu Narukami, and these are my friends,
+Yosuke, Chie, Yukiko, Teddie, Kanji, and Naoto.
+SCENE: LEFT = 12
+Akihiko
+What's with the koala getup?
+
+
+SCENE: RIGHT = 7
+Teddie
+Grrrr! How rude! I am not a koala, and this is not
+a suit! I'm a bear! And this is real Teddie fur!
+
+SCENE: LEFT = 18
+Fuuka
+...Right. Anyway, like Minato said, you appear to have
+your own goals, so we'll not get in your way.
+
+SCENE: RIGHT = 1
+Yu
+But you said you were lost, didn't you? We can't
+just let you wander around the TV world. I
+know you're Persona users, but...
+SCENE: LEFT = 2
+Yosuke
+I know, why don't we just show them the exit?
+Teddie, you can do that, can't you?
+
+SCENE: RIGHT = 7
+Teddie
+It wouldn't be a very good idea. I don't know where
+they came from, so a simple exit could take
+them anywhere!
+SCENE: LEFT = 6
+Naoto
+Not to mention, using the normal Junes exit would
+be problematic. We don't even know if they're
+from this region.
+SCENE: RIGHT = 5
+Kanji
+So? We'll just buy 'em train tickets. They seem to
+be in one group. Maybe they're headed in the same
+direction.
+SCENE: LEFT = 13
+Mitsuru
+I'm afraid it's not that simple. Long-distance
+travel, in the worst case, could take hours.
+
+SCENE: RIGHT = 4
+Chie
+What's the matter? Are you in that much of a
+hurry to get home?
+
+SCENE: LEFT = 13
+Mitsuru
+You could say that. Our mission must be completed
+within the night, lest the world fall to ruin.
+
+SCENE: RIGHT = 1, BGM = 8
+Yu
+... ...!
+
+
+SCENE: LEFT = 13
+Mitsuru
+To stop the Fall... To defeat Nyx... This
+is our burden. A burden that occurs at midnight,
+when Tartarus appears.
+SCENE: RIGHT = 14
+Aigis
+Pardon the interruption, but it is no longer the Dark
+Hour. My internal clock indicates it is approx-
+imately 1500 hours.
+SCENE: LEFT = 12, BGM = 0
+Akihiko
+No way... We're too late?
+
+
+SCENE: RIGHT = 14
+Aigis
+If my systems are to be believed, the current year
+is 2012. And though I may be an imperfect machine,
+my internal time is rarely incorrect.
+SCENE: LEFT = 16
+Ken
+It can't be... We failed to stop it...?
+
+
+SCENE: RIGHT = 18
+Fuuka
+But if that's true, how are we all...?
+Two years should've passed, and yet...
+
+SCENE: LEFT = 9
+Minato
+This certainly is a mystery. But since we haven't
+gotten much help from these people, let's just
+press onward.
+SCENE: RIGHT = 7
+Teddie
+Wandering the TV world is a bad idea! Without a
+guide, you'll get lost for sure!
+
+SCENE: LEFT = 10
+Yukari
+If that's the case, what do you suggest?
+
+
+SCENE: RIGHT = 7, BGM = 5
+Teddie
+A-hah! Don't you worry! I've been crafting things
+in my spare time, and now I finally have the chance
+to show them off! You're gonna love this!
+SCENE: LEFT = 2
+Yosuke
+Just hurry up with it, will ya, Ted? We have a mission
+of our own to complete, and it's got a deadline, too!
+
+SCENE: RIGHT = 7
+Teddie
+...Right, heheh. Anyway, may I present to you...
+Da-da-da-dah! ...Go-karts!
+
+SCENE: LEFT = 4
+Chie
+... ...
+
+
+SCENE: RIGHT = 13
+Mitsuru
+... ...
+
+
+SCENE: LEFT = 3
+Yukiko
+... ...
+
+
+SCENE: RIGHT = 15
+Shinjiro
+...I beg your pardon?
+
+
+SCENE: LEFT = 7
+Teddie
+Didn't you hear me? I said... Go-karts! They're
+Shadow-proof! Not to mention, they can speed
+through the fog in no time at all!
+SCENE: RIGHT = 3
+Yukiko
+...Pfft... Snort... Ahahahaha!
+
+
+SCENE: LEFT = 15
+Shinjiro
+That wasn't that funny. Does she always do that?
+
+
+SCENE: RIGHT = 9
+Minato
+Never mind that. At least it's something. But
+we need to be sure that these work properly.
+
+SCENE: LEFT = 1
+Yu
+Heh. We've only just met, but I can already tell
+you speak my language.
+
+SCENE: RIGHT = 5
+Kanji
+Don't tell me... Don't tell me you're gonna...
+
+
+SCENE: LEFT = 6
+Naoto
+I wouldn't worry about it. A go-kart race, at
+sufficiently high speeds, should take no more
+than a minute or two to complete.
+SCENE: RIGHT = 1
+Yu
+All right, team, who's with me? We're all going to
+go for a spin with this Minato guy over here.
+Just to make sure things are in order.
+SCENE: LEFT = 9
+Minato
+It'll be my party versus yours. May the best team win.
+
+
+SCENE: RIGHT = 7
+Teddie
+And with that being said... Let the race begin!
+
+
+RACE = 0,8,1,9,3,10

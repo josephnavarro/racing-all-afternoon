@@ -1,0 +1,15 @@
+name = Orthrus
+arcana = 12
+max_speed = 0
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.45
+bufu = 0.00
+garu = 0.15
+zio = 0.15
+hama = 0.00
+mudo = 0.00
+phys = 0.25
+spec = 1,3,4,7

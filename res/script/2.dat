@@ -1,0 +1,226 @@
+SCENE: LEFT = 2, BGM = 5, SCENE = 1
+Yosuke
+Phew... What a race! I'm beat. But wait a minute...
+This place looks familiar. All this driving took
+us pretty far, didn't it?
+SCENE: RIGHT = 4
+Chie
+I'll say... We're nowhere near where we're supposed
+to be! Izanami isn't waiting for us in Kanji's
+bathhouse!
+SCENE: LEFT = 5
+Kanji
+Hey! Don't call it "my" bathhouse! I didn't ask for
+this place! It just popped up one day, all right?
+
+SCENE: RIGHT = 3
+Yukiko
+Careful, Kanji-kun. If you deny your other self
+again, don't you think it might come back?
+
+SCENE: LEFT = 2
+Yosuke
+Wh-whoah, wait a minute! Is that really how it works?
+Kanji, snap out of it! I don't want to see your
+Shadow again!
+SCENE: RIGHT = 5
+Kanji
+Geez, calm down. Nothing's gonna happen... And wait,
+what's wrong with me doing what I want to do?
+
+SCENE: LEFT = 2
+Yosuke
+Ack! Don't say it all creepy like that! Okay, never
+mind, just keep denying your other self!
+
+SCENE: RIGHT = 5
+Kanji
+Dude, make up your mind! Besides, even if that
+other me shows up again, we're just gonna beat
+it to a pulp, like usual.
+SCENE: LEFT = 12
+Akihiko
+Hold on. What's this talk about Shadow selves?
+
+
+SCENE: RIGHT = 6
+Naoto
+Ah, right. You're Persona users like us. In this
+world, an individual's Shadow manifests when
+they're thrown inside the TV.
+SCENE: LEFT = 7
+Teddie
+Shadows are born from human emotions, and they
+get angry when rejected! But if a human accepts
+their other self, it becomes their Bear-sona!
+SCENE: RIGHT = 12
+Akihiko
+I see. So it has nothing to do with the Lost or the
+Dark Hour.
+
+SCENE: LEFT = 1
+Yu
+If you don't mind my asking, what's this Dark Hour
+you keep referring to?
+
+SCENE: RIGHT = 12, BGM = 6
+Akihiko
+You have Personas, but you've never heard of the
+Dark Hour? I guess I should tell you, then.
+
+SCENE: RIGHT = 12
+Akihiko
+It's a hidden hour that occurs at midnight. During
+this time, a building called Tartarus appears where
+Gekkoukan High is supposed to be.
+SCENE: LEFT = 13
+Mitsuru
+In our world, Tartarus is where most Shadows tend
+to congregate. But, according to your story, it
+seems this world has plenty of them, too.
+SCENE: RIGHT = 12
+Akihiko
+Where we come from, Shadows are monsters that
+appear during the Dark Hour. There used to be
+larger ones that showed up every full moon...
+SCENE: LEFT = 13
+Mitsuru
+...But we were manipulated into destroying them.
+
+
+SCENE: RIGHT = 4
+Chie
+Manipulated? You make it sound like getting rid
+of the Shadows is a bad thing.
+
+SCENE: LEFT = 13
+Mitsuru
+In our situation, it was. The Shadows that appeared
+each full moon were pieces of a greater entity,
+all longing to be reunited.
+SCENE: RIGHT = 10
+Yukari
+My father belonged to a research group that exper-
+imented on Shadows. His colleagues were determined
+to bring about the Fall, or the end of humanity.
+SCENE: LEFT = 13
+Mitsuru
+As was my father. Together, they amassed Shadows
+into that being... The being called Death.
+
+SCENE: RIGHT = 9
+Minato
+Takeba's father disagreed with the group's ideals,
+so he found a way to split Death into twelve pieces.
+
+SCENE: LEFT = 11
+Junpei
+And from what I understand, our defeating each full
+moon Shadow only put them back together, like one
+big jigsaw puzzle.
+SCENE: RIGHT = 5
+Kanji
+...That's a lot to take in.
+
+
+SCENE: LEFT = 12
+Akihiko
+We don't expect you to understand it all. Just know
+that you and I have similar enemies.
+
+SCENE: RIGHT = 6
+Naoto
+So now that Death has been restored, it threatens
+to bring an end to your world. Is that correct?
+
+SCENE: LEFT = 18
+Fuuka
+Yes, that's right. It is the Fall that we are
+trying to prevent.
+
+SCENE: RIGHT = 15, BGM = 0
+Shinjiro
+...Agh!!
+
+
+SCENE: LEFT = 9
+Minato
+... ...!
+
+
+SCENE: RIGHT = 11
+Junpei
+... ...!
+
+
+SCENE: LEFT = 12
+Akihiko
+...Shinji! What's the matter?
+
+
+SCENE: RIGHT = 15
+Shinjiro
+Shit... My head... It feels like it's splitting
+in two...
+
+SCENE: LEFT = 12
+Akihiko
+Dammit, don't tell me your Persona's acting up
+again! Where are your suppressants?
+
+SCENE: RIGHT = 7, BGM = 9
+Teddie
+I hate to interrupt you guys, but I sense some
+Shadows approaching!
+
+SCENE: LEFT = 18
+Fuuka
+I sense them, too! A lot of them!
+
+
+SCENE: RIGHT = 1
+Yu
+I guess this is where we make our stand!
+
+
+SCENE: LEFT = 14
+Aigis
+Negative. With one of us injured, we are at a
+severe disadvantage. I too detect the presence
+of over a hundred Shadows.
+SCENE: RIGHT = 1
+Yu
+Over a hundred...?!
+
+
+SCENE: LEFT = 12
+Akihiko
+Let's cut the chitchat and get out of here!
+Shinji's hurting enough as it is!
+
+SCENE: RIGHT = 2
+Yosuke
+I have an idea! Let's get in those go-karts Teddie
+made! We can lose the Shadows if we go through
+the bathhouse!
+SCENE: LEFT = 1
+Yu
+You sound rather eager. You sure you're not a fan
+of the sauna?
+
+SCENE: RIGHT = 2
+Yosuke
+Hey, c'mon, partner, don't be like that! I-It's
+the steam! It'll mask our scent!
+
+SCENE: LEFT = 1
+Yu
+Uh-huh. Anyway, I'll race you there.
+
+
+SCENE: RIGHT = 2
+Yosuke
+Man, you were ready to fight just a second ago!
+How can you stay cool at a time like this?
+
+RACE = 1,0,2,4,13,11

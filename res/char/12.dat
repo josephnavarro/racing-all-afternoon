@@ -1,0 +1,8 @@
+name = Akihiko
+max_speed = 4
+accel = 4
+offroad = 3
+recovery = 4
+threshold = 3
+health = 1000
+persona = 17/18/19/20/37/38/39

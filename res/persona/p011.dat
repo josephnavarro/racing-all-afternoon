@@ -1,0 +1,15 @@
+name = High Pixie
+arcana = 2
+max_speed = 0
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 1
+agi = 0.05
+bufu = 0.25
+garu = 0.25
+zio = 0.25
+hama = 0.05
+mudo = 0.05
+phys = 0.10
+spec = 1,2,3,4,5,6,7

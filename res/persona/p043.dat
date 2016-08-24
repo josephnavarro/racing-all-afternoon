@@ -1,0 +1,15 @@
+name = Titan
+arcana = 11
+max_speed = 0
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.00
+bufu = 0.05
+garu = 0.05
+zio = 0.05
+hama = 0.00
+mudo = 0.40
+phys = 0.45
+spec = 2,3,4,6,7

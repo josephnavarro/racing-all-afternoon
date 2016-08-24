@@ -1,0 +1,15 @@
+name = Satan
+arcana = 20
+max_speed = 1
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.20
+bufu = 0.20
+garu = 0.00
+zio = 0.20
+hama = 0.20
+mudo = 0.20
+phys = 0.00
+spec = 1,2,4,5,6

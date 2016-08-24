@@ -1,0 +1,15 @@
+name = Girimehkala
+arcana = 18
+max_speed = 0
+accel = 1
+offroad = 1
+recovery = 0
+threshold = 0
+agi = 0.07
+bufu = 0.07
+garu = 0.07
+zio = 0.07
+hama = 0.00
+mudo = 0.37
+phys = 0.35
+spec = 1,2,3,4,6,7

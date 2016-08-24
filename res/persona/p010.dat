@@ -1,0 +1,15 @@
+name = Apsaras
+arcana = 2
+max_speed = 0
+accel = 1
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.00
+bufu = 0.46
+garu = 0.26
+zio = 0.18
+hama = 0.00
+mudo = 0.00
+phys = 0.10
+spec = 2,3,4,7

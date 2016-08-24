@@ -1,0 +1,15 @@
+name = Orpheus
+arcana = 0
+max_speed = 1
+accel = 0
+offroad = 0
+recovery = 0
+threshold = 0
+agi = 0.38
+bufu = 0.00
+garu = 0.12
+zio = 0.12
+hama = 0.00
+mudo = 0.00
+phys = 0.38
+spec = 1,3,4,7
