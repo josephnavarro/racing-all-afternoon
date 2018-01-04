@@ -39,9 +39,8 @@ class Main:
         pygame.display.set_icon(icon)
 
         ## Fullscreen data
-        self.is_hw = pygame.display.Info().hw
         self.current_dim = pygame.display.Info().current_w, pygame.display.Info().current_h
-        self.full_res = [int(self.current_dim[1]/float(480)*720),int(self.current_dim[1])]
+        self.full_res = (720,480)#[int(self.current_dim[1]/float(480)*720),int(self.current_dim[1])]
 
         ## Load in the current options, if any
         self.load_options()
@@ -53,12 +52,9 @@ class Main:
 
         ## Create a default or full screen, depending on the loaded options
         if self.screen_index == 0:
-            self.screen = pygame.display.set_mode((720,480), SWSURFACE)
+            self.screen = pygame.display.set_mode((720,480))
         elif self.screen_index == 1:
-            if self.is_hw:
-                self.screen = pygame.display.set_mode(self.full_res, DOUBLEBUF | HWSURFACE | FULLSCREEN)
-            else:
-                self.screen = pygame.display.set_mode(self.full_res, SWSURFACE | FULLSCREEN)
+            self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
 
         self.width = 720            ## Window width
         self.height = 480           ## Window height
@@ -1340,7 +1336,7 @@ class Main:
                                self.segments[temp_ind].p2.screen.x,
                                self.segments[temp_ind].p2.screen.y,
                                self.segments[temp_ind].p2.screen.w,
-                               self.segments[temp_ind/self.current_course.road].color)
+                               self.segments[temp_ind//self.current_course.road].color)
 
                 max_y = self.segments[temp_ind].p2.screen.y
 
@@ -1354,7 +1350,7 @@ class Main:
                             self.segments[temp_ind].p2.screen.x,
                             min(clip[n],self.segments[temp_ind].p2.screen.y),
                             self.segments[temp_ind].p2.screen.w,
-                            n, self.draw_distance, self.segments[temp_ind/self.current_course.strip].color,
+                            n, self.draw_distance, self.segments[temp_ind//self.current_course.strip].color,
                             self.current_course.dark_colors)
 
             screen.unlock()
@@ -3372,12 +3368,12 @@ class Main:
                                     if old_screen_index != self.screen_index:
                                         old_screen_index = self.screen_index
                                         if self.screen_index == 0:
-                                            self.screen = pygame.display.set_mode((720,480),SWSURFACE)
+                                            self.screen = pygame.display.set_mode((720,480))
                                         else:
                                             if self.is_hw:
-                                                self.screen = pygame.display.set_mode(self.full_res, DOUBLEBUF | HWSURFACE | FULLSCREEN)
+                                                self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
                                             else:
-                                                self.screen = pygame.display.set_mode(self.full_res, SWSURFACE | FULLSCREEN)
+                                                self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
                                     self.reset_main(11, is_title=True)
                                     self.mode = 1
                             elif self.mode == 7:
@@ -3397,12 +3393,9 @@ class Main:
                                 if old_screen_index != self.screen_index:
                                     old_screen_index = self.screen_index
                                     if self.screen_index == 0:
-                                        self.screen = pygame.display.set_mode((720,480),SWSURFACE)
+                                        self.screen = pygame.display.set_mode((720,480))
                                     else:
-                                        if self.is_hw:
-                                            self.screen = pygame.display.set_mode(self.full_res, DOUBLEBUF | HWSURFACE | FULLSCREEN)
-                                        else:
-                                            self.screen = pygame.display.set_mode(self.full_res, SWSURFACE | FULLSCREEN)
+                                        self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
                                 self.reset_main(11, is_title=True)
                                 self.mode = 1
                             elif self.mode == 7:
@@ -3549,12 +3542,9 @@ class Main:
                             if old_screen_index != self.screen_index:
                                 old_screen_index = self.screen_index
                                 if self.screen_index == 0:
-                                    self.screen = pygame.display.set_mode((720,480),SWSURFACE)
+                                    self.screen = pygame.display.set_mode((720,480))
                                 else:
-                                    if self.is_hw:
-                                        self.screen = pygame.display.set_mode(self.full_res, DOUBLEBUF | HWSURFACE | FULLSCREEN)
-                                    else:
-                                        self.screen = pygame.display.set_mode(self.full_res, SWSURFACE | FULLSCREEN)
+                                    self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
                             self.reset_main(11, is_title=True)
                             self.mode = 1
                         elif e.key in [pygame.K_UP, pygame.K_w]:
@@ -3643,12 +3633,9 @@ class Main:
                                 if old_screen_index != self.screen_index:
                                     old_screen_index = self.screen_index
                                     if self.screen_index == 0:
-                                        self.screen = pygame.display.set_mode((720,480),SWSURFACE)
+                                        self.screen = pygame.display.set_mode((720,480))
                                     else:
-                                        if self.is_hw:
-                                            self.screen = pygame.display.set_mode(self.full_res, DOUBLEBUF | HWSURFACE | FULLSCREEN)
-                                        else:
-                                            self.screen = pygame.display.set_mode(self.full_res, SWSURFACE | FULLSCREEN)
+                                        self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
                                 self.reset_main(11, is_title=True)
                                 self.mode = 1
 
