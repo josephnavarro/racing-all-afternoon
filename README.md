@@ -4,7 +4,7 @@
 A racing game parody of the ![Shin Megami Tensei](https://en.wikipedia.org/wiki/Shin_Megami_Tensei) and ![Persona](https://en.wikipedia.org/wiki/Persona_(series)) series by Atlus. Features configurable controls and a story mode. In-game graphics for the racetracks use a pseudo-3D rendering algorithm inspired by ![Out Run](https://en.wikipedia.org/wiki/Out_Run).
 
 ### Download Links
-* **![Windows 64-bit](https://mega.nz/#!E2oWDKpR!iVOooHR6t8sjUutHiOPGtVgbYpjHNT7vbeap6FIIUhs)**
+* **[Windows 64-bit](https://mega.nz/#!E2oWDKpR!iVOooHR6t8sjUutHiOPGtVgbYpjHNT7vbeap6FIIUhs)**
 * *(Mac OSX version has not yet been recompiled).*
 
 ## Screenshots
