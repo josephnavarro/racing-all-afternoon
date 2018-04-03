@@ -1,0 +1,7 @@
+screen_index = 0
+interface_index = 0
+music_index = 0
+sound_index = 0
+input_index = 0
+gamepad = -1,-1,-1,-1,-1,-1,-1
+engine_class = 1

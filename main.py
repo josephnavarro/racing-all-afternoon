@@ -52,7 +52,7 @@ class Main:
 
         ## Create a default or full screen, depending on the loaded options
         if self.screen_index == 0:
-            self.screen = pygame.display.set_mode((720,480))
+            self.screen = pygame.display.set_mode((720,480),NOFRAME)
         elif self.screen_index == 1:
             self.screen = pygame.display.set_mode(self.full_res, FULLSCREEN)
 
