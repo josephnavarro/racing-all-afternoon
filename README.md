@@ -13,7 +13,7 @@ A racing game parody of the [Shin Megami Tensei](https://en.wikipedia.org/wiki/S
 <img src="screenshots/screenshot-5.png" alt="screen-5" width="50%" height="50%"><img src="screenshots/screenshot-6.png" alt="screen-6" width="50%" height="50%">
 
 ## Media Coverage
-In 2015, a short review of Persona 4: Racing All Afternoon was featured in an **![article on Kotaku](https://kotaku.com/fan-game-crosses-persona-with-mario-kart-1687631199)**. (The article in question references a now-defunct download link. New releases will be given above).
+In 2015, a short review of Persona 4: Racing All Afternoon was featured in an **[article on Kotaku](https://kotaku.com/fan-game-crosses-persona-with-mario-kart-1687631199)**. (The article in question references a now-defunct download link. New releases will be given above).
 
 ## Dependencies
 * **[Pygame](https://www.pygame.org/news)** 1.9.3+
